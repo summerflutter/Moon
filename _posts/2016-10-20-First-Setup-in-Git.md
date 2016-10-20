@@ -2,7 +2,7 @@
 layout: post
 title:  "First Step in Git and Jekyll"
 date:   2016-10-12
-excerpt: "To note my very first step in Git and Jekyll and try markdown"
+excerpt: "My very first step in Git and Jekyll and try markdown"
 tag:
 - markdown 
 - syntax
