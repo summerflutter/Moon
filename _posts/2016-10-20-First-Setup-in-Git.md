@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Step in Git and Jekyll"
-date:   2016-10-12
+date:   2016-10-20
 excerpt: "My very first step in Git and Jekyll and try markdown"
 tag:
 - markdown 
