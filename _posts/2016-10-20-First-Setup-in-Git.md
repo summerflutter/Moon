@@ -55,6 +55,7 @@ Jakyll的模板很全。第一个选好的模板非常漂亮，无奈一面只�
 
 ## Next step
 还有很多后续工作得完成：
+
 * 解决jekyll在windows运行的`SSL_Connect`问题
 * GitHub Desktop得用得更加熟练
 * 改掉网站的图片，更私人化
